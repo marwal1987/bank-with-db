@@ -52,7 +52,7 @@ export default function AccountPage() {
   return (
     <section className="card">
       <h2>Konto </h2>
-      <p className="text-xl font-bold text-slate-900" >SALDO: {saldo} kr</p>
+      <p className="text-xl text-stone-50" >Saldo: {saldo} kr</p>
 
       <input
         type="text"

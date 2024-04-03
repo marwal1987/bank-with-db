@@ -32,10 +32,8 @@ export default function LoginPage() {
   };
 
   return (
-    <section className="card ">
-      <h2>
-        Ange ditt användarnamn och lösenord
-      </h2>
+    <section className="card">
+      <h2>Ange användarnamn och lösenord</h2>
       <input
         type="text"
         placeholder="Användarnamn"
